@@ -20,7 +20,7 @@ Estudo programação atualmente, e sempre em busca de aprender novas habilidades
 - Graduando em Engenharia de Software, USJT (Previsão para conclusão: dez/2028)
 
 ## Contato
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-parente-moraes)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-parente-moraes/)
 - [![E-mail](https://img.shields.io/badge/-E--mail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafamoraes@gmail.com)
 
 ---
