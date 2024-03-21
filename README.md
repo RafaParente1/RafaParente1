@@ -7,13 +7,13 @@ Estudo programação atualmente, e sempre em busca de aprender novas habilidades
 - Linguagens: JavaScript, Java, C#, C++
 - Frameworks: React Native, Spring Boot, Angular, Bootstrap
 - Web: HTML5, CSS3
-- Banco de Dados: Microsoft SQL Server, FireBase
+- Banco de Dados: Microsoft SQL Server, Firebase
 - Versionamento: Git
 
 ## Projetos Destacados
 1. **App de Receitas**
    - Desenvolvimento de um aplicativo web responsivo para compartilhamento de receitas.
-   - Tecnologias utilizadas: React Native, JavaScript.
+   - Tecnologias utilizadas: React Native, JavaScript, Firebase.
 
 ## Educação
 - Graduação em Desenvolvimento de Sistemas, Escola Técnica Estadual Professor Horácio Augusto da Silveira (Conclusão: dez/2023)
