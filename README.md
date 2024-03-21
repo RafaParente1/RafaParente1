@@ -4,9 +4,9 @@
 Estudo programação atualmente, e sempre em busca de aprender novas habilidades e tecnologias. Atualmente, estou graduando em Engenharia de Software e estou buscando oportunidades de estágio para aplicar meus conhecimentos na prática e contribuir para projetos.
 
 ## Habilidades Técnicas
-- Linguagens: JavaScript, Java, C#
-- Frameworks: React Native
-- Web: HTML5, CSS3, Bootstrap
+- Linguagens: JavaScript, Java, C#, C++
+- Frameworks: React Native, Spring Boot, Angular, Bootstrap
+- Web: HTML5, CSS3
 - Banco de Dados: Microsoft SQL Server, FireBase
 - Versionamento: Git
 
